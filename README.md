@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LordKnish
+- 👀 I’m interested in Computer Science / Artificial Intelligence / Computer Vision and more!
+- 🌱 I’m currently learning Bioinformatics
